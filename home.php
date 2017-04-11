@@ -16,11 +16,11 @@
       <script type="text/javascript" src="js/materialize.js"></script>
       <nav>
         <!-- header baris pertama-->
-        <div class="nav-wrapper row">
+        <div class="nav-wrapper row pink lighten-5">
           <!-- logo -->
           <ul class="col s2">
             <li>
-              <img class="brand-logo col s2" src="galenia.png"/>
+              <img class="brand-logo col s1" style="padding-top: 0.25cm; padding-bottom: 0.25cm;" src="galenia.png"/>
             </li>
           </ul>
           <!-- search bar -->
@@ -34,7 +34,7 @@
           <!-- tombol user -->
           <ul class="col s1 offset-s2">
             <li>
-              <a class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">perm_identity</i></a>
+              <a class="btn-floating btn-large waves-effect waves-light pink"><i class="material-icons">perm_identity</i></a>
             </li>
           </ul>
         </div>
@@ -43,7 +43,7 @@
           <!-- tombol tambah file -->
           <ul class="col s2">
             <li>
-              <a class="waves-effect waves-light btn"><i class="material-icons left">note_add</i>Add</a>
+              <a class="waves-effect waves-light btn pink"><i class="material-icons left">note_add</i>Add</a>
             </li>
           </ul>
           <!-- direktori -->
